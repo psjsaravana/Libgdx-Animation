@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Saravana\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.6.4\eb089b58828b842bbdd4f7cb48b54626924cfdd5\gdx-box2d-1.6.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="eb089b58828b842bbdd4f7cb48b54626924cfdd5">
+        <dex dex="F:\Saravana\Android\Games\MyAnimation\android\build\intermediates\pre-dexed\debug\gdx-box2d-1.6.4-db72af6c4c8a71838126b6c485c8ca1a3355127b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Saravana\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.6.4\13ed9a042554afce8c8b38c53e9b6d6d9c10600e\gdx-1.6.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="13ed9a042554afce8c8b38c53e9b6d6d9c10600e">
+        <dex dex="F:\Saravana\Android\Games\MyAnimation\android\build\intermediates\pre-dexed\debug\gdx-1.6.4-2aa94c6b64c18ad27c947b34c2693c6322eec9d0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Saravana\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.6.4\d681be06ea6873f2056bbcbe091367bd9f7c23f2\gdx-backend-android-1.6.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d681be06ea6873f2056bbcbe091367bd9f7c23f2">
+        <dex dex="F:\Saravana\Android\Games\MyAnimation\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.6.4-eaf92364ccc34c42d64f159b00b6295b67aa96e1.jar" />
+    </item>
+    <item
+        jar="F:\Saravana\Android\Games\MyAnimation\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="684eb116c88e5e26de45495a7d4ae8117e2f41f5">
+        <dex dex="F:\Saravana\Android\Games\MyAnimation\android\build\intermediates\pre-dexed\debug\core-1.0-a6c64d233f7a8d845609353672dfaaece05d1447.jar" />
+    </item>
+
+</items>
